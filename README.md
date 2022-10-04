@@ -1,2 +1,2 @@
-# CSS-1
+# css-1
 Learning CSS
